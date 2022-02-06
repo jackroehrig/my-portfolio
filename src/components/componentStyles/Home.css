@@ -1,0 +1,34 @@
+#nameplate {
+    margin-top: 1vw;
+    color: #6c757d;
+}
+
+.lead {
+    font-size: 2vw!important;
+}
+
+#name {
+    font-size: 8vw;
+    text-align: center;
+}
+
+.job-title {
+    font-size: 6vw!important;
+    background-color: #6c757d;
+    color: white;
+    width: 42vw;
+}
+
+.hidden {
+    display: none!important;
+}
+
+.btn-outline-secondary {
+    font-size: 2vw!important;
+}
+
+.number:hover {
+    cursor: initial!important;
+    color: #6c757d!important;
+    background-color: initial!important;
+}
